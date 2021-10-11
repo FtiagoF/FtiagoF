@@ -2,13 +2,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Meu nome é Tiago Farias e sou <strong>programador Jr. Front-End</strong>.<br>
-  - Tabalhando como HelpDesk na empresa <a href="http://amendolaeamendola.com.br/">Amendola&Amendola</a>.<br> 
-  - Último semestre de ADS (Analise e Desenvolvimento de Sistemas) no IFSP.
-</p>
+  Meu nome é Tiago Farias e sou <strong>programador Jr. Front-End</strong>.<br></p>
+  
+- Tabalhando como HelpDesk na empresa <a href="http://amendolaeamendola.com.br/">Amendola&Amendola</a>.<br> 
+- Último semestre de ADS (Analise e Desenvolvimento de Sistemas) no IFSP.
+
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, Css, JavaScript</strong>
+  🦄 Linguagens: <strong>HTML, CSS, JavaScript</strong>
 </p>
 
 <p align="left">
