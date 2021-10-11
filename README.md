@@ -1,16 +1,28 @@
-### Hi there 👋
+## PT - BR
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**FtiagoF/FtiagoF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Meu nome é Tiago Farias e sou <strong>programador Jr. Front-End</strong>.<br>
+  - Tabalhando como HelpDesk na empresa <a href="http://amendolaeamendola.com.br/">Amendola&Amendola</a>.<br> 
+  - Último semestre de ADS (Analise e Desenvolvimento de Sistemas) no IFSP.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens: <strong>HTML, Css, JavaScript</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: <strong>Aprendendo Frameworks em Js como React e Angular</strong>
+</p>
+
+<p align="left">
+  💌 Entre em contato comigo: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto: tiagofariasnh19@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
+
+  <a href="https://www.instagram.com/tiagofarias15/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
