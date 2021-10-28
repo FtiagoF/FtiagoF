@@ -4,7 +4,7 @@
 <p align="left"> 
   Meu nome é Tiago Farias e sou <strong>programador Jr. Front-End</strong>.<br></p>
   
-- Tabalhando como HelpDesk na empresa <a href="http://amendolaeamendola.com.br/">Amendola&Amendola</a>.<br> 
+- Tabalhando como Suporte HelpDesk e Programador Jr. na empresa <a href="https://www.estiva.com.br/">Usina São José da Estiva S/A - Açúcar e Álcool</a>.<br> 
 - Último semestre de ADS (Analise e Desenvolvimento de Sistemas) no IFSP.
 
 
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Aprendendo Frameworks em Js como React e Angular</strong>
+  💼 Ferramentas: <strong>Aprendendo biblíotecas em Js como React e Angular</strong>
 </p>
 
 <p align="left">
