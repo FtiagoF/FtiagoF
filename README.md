@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Aprendendo biblíotecas em Js como React e Angular</strong>
+  💼 Ferramentas: <strong>Aprendendo biblíotecas em Js como React</strong>
 </p>
 
 <p align="left">
