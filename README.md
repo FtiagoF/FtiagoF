@@ -26,7 +26,7 @@
 
   <a href="https://www.instagram.com/tiagofarias15/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-  <a href = "https://www.linkedin.com/in/tiago-farias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>  
 
 ## 🚀 Minhas Skills
