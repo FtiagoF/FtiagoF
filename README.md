@@ -5,7 +5,7 @@
   Meu nome é Tiago Farias e sou <strong>programador Jr. Front-End</strong>.<br></p>
   
 - Tabalhando como Suporte HelpDesk, envolvido em alguns projetos de desenvolvimento na empresa <a href="https://www.estiva.com.br/">Usina São José da Estiva S/A - Açúcar e Álcool</a>.<br> 
-- Último semestre de ADS (Analise e Desenvolvimento de Sistemas) no IFSP.
+- Formado em Análise e Desenvolvimento de Sistemas no IFSP.
 
 
 <p align="left">
