@@ -3,7 +3,6 @@
 
 <p align="left"> 
   Hi, my name is Tiago Farias and I'm <strong>Frontend developer</strong> at ACTUM Digital.<br></p>
-  Meu nome é Tiago Farias e sou <strong>programador Jr. Front-End</strong>.<br></p>
 
 <p align="left">
   🦄 Knolegment: <strong>HTML, CSS, TypeScript, ReactJs, NextJs, NodeJs, SQL</strong>
