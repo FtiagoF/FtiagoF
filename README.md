@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://github.com/FtiagoF/FtiagoF/assets/87453405/bbba768c-173c-4b4d-ad10-b9c35ca0eb24" />
+<img align="right" height="590em" src="https://github.com/FtiagoF/FtiagoF/assets/87453405/d9094d18-60d4-4e04-86d0-fcb00520d263" />
 <h1 align="left">Hi <img src="https://www.emojiall.com/images/60/microsoft-teams/1f44b-1f3fb.png" height="30px">, I'm Tiago Farias</h1>
 
 - 🔥 A Software Engeneer focused on frontend and high-quality UI
