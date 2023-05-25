@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, NextJs and TypeScript**
 
-- ⚡ Fun fact **Brazilian 😜**
+- ⚡ **Brazilian 😜**
 
 <!--- - 👨‍💻 More at [tiagofarias.dev](https://tiagofarias.dev) --->
 
